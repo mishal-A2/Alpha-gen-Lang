@@ -1,0 +1,28 @@
+brokestr fun(){
+	yeet 'x';
+}
+
+digi main(){ 
+	
+	digi x =10e-3;
+	pointdigi z=2.34567;
+/* to check
+ multiple arithmetic   
+  operations*/
+	
+	digi bww= 10 + 2;
+	digi cee= 11 - 2;
+	digi ayo=12/2; 
+	pointdigi aee=3.3 * 3.0;
+	
+	brokestr chars= 'a'
+    
+	    /*yapa yapa yapa*/
+	boolulu real = cap;
+	fetch(x);
+	fun();
+        if (real)
+        	yeet cap;
+	yap  ("YEEEET",chars);
+        yeet 0;
+}
