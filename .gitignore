@@ -1,0 +1,13 @@
+#ignore all compiled java classes
+*.class
+
+#ignore vs code files
+.vscode
+bin/
+#ignore extra folders files
+22i-1291_22i-0861_K_assig1/
+lib/
+
+# Ignore temporary files
+*.log
+*.tmp
