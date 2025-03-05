@@ -1,0 +1,1 @@
+echo "This is a buggy commit" >> buggy_file.txt
